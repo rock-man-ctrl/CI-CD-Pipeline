@@ -61,7 +61,12 @@ docker push $AWS_IAM_USER_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/devops-se
 
 
 #Sceenshots
+
+The Project display after creating
 ![1](https://user-images.githubusercontent.com/74751196/235208025-1e2ab0f5-9f95-4018-96c9-957c4ed0c957.png)
+
+You need to add all the required connections and credentials of github and your database
+
 ![2](https://user-images.githubusercontent.com/74751196/235208046-94fd5f28-c4cb-4c98-b998-6d6361db686a.png)
 ![3](https://user-images.githubusercontent.com/74751196/235208067-af992f90-2afc-4d65-bf22-70f8e9666e1a.png)
 ![4](https://user-images.githubusercontent.com/74751196/235208082-1dc0238b-f24d-496e-b98d-db4fb181543e.png)
