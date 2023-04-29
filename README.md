@@ -79,8 +79,13 @@ Displayed content after building the project in jenkins successfully :-
 
 Deployed the war file in Tomcat Server using jenkins
 
-![5](https://github.com/rock-man-ctrl/CI-CD-Pipeline/blob/main/Screenshots/Screenshot%20(32).png?raw=true)
+![6](https://github.com/rock-man-ctrl/CI-CD-Pipeline/blob/main/Screenshots/Screenshot%20(32).png?raw=true)
 
+
+Step for CI/CD Integration :-
+![7](https://github.com/rock-man-ctrl/CI-CD-Pipeline/blob/main/Screenshots/Screenshot%20(36).png?raw=true)
+
+#PostMan
 Getting all the Servers
 ![Screenshot (30)](https://user-images.githubusercontent.com/74751196/235208140-a5829954-19e0-4080-ac33-0512308a9d58.png)
 
