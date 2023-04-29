@@ -81,9 +81,17 @@ Tomcat database
 
 ![5](https://github.com/rock-man-ctrl/CI-CD-Pipeline/blob/main/Screenshots/Screenshot%20(32).png?raw=true)
 
+Getting all the Servers
 ![Screenshot (30)](https://user-images.githubusercontent.com/74751196/235208140-a5829954-19e0-4080-ac33-0512308a9d58.png)
+
+Getting a desired Server using a particular ID
 ![Screenshot (31)](https://user-images.githubusercontent.com/74751196/235208167-47af6d4f-8b02-4275-8fb3-336a7e77ab77.png)
 
+creating server
 ![Screenshot (33)](https://user-images.githubusercontent.com/74751196/235208220-b91c2e20-7bcf-4714-9df4-15a440b962ab.png)
+
+deleting Server
 ![Screenshot (34)](https://user-images.githubusercontent.com/74751196/235208244-0dae6d98-b53c-4388-8079-59b444a4a4ee.png)
+
+Updated Server after Deleting
 ![Screenshot (35)](https://user-images.githubusercontent.com/74751196/235208260-36471909-4911-4452-b6ef-345a28864cd8.png)
