@@ -77,7 +77,7 @@ Displayed content after building the project in jenkins successfully :-
 
 ![5](https://user-images.githubusercontent.com/74751196/235208105-d7acbb3d-30ff-49c7-a999-0047cfa02408.png)
 
-Tomcat database
+Deployed the war file in Tomcat Server using jenkins
 
 ![5](https://github.com/rock-man-ctrl/CI-CD-Pipeline/blob/main/Screenshots/Screenshot%20(32).png?raw=true)
 
