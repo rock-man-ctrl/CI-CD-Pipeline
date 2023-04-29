@@ -76,6 +76,11 @@ console after building the project  :-
 Displayed content after building the project in jenkins successfully :-
 
 ![5](https://user-images.githubusercontent.com/74751196/235208105-d7acbb3d-30ff-49c7-a999-0047cfa02408.png)
+
+Tomcat database
+
+![5](https://github.com/rock-man-ctrl/CI-CD-Pipeline/blob/main/Screenshots/Screenshot%20(32).png?raw=true)
+
 ![Screenshot (30)](https://user-images.githubusercontent.com/74751196/235208140-a5829954-19e0-4080-ac33-0512308a9d58.png)
 ![Screenshot (31)](https://user-images.githubusercontent.com/74751196/235208167-47af6d4f-8b02-4275-8fb3-336a7e77ab77.png)
 
